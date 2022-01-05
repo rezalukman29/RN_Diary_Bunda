@@ -13,6 +13,10 @@ Feature :
 Try on Expo
 https://expo.dev/@rezalukman29/RN-Diary-Bunda-rezalukman
 
+OR Download the app
+
+https://drive.google.com/file/d/13dB9YA0O5jQhoHcThicIf-YwTGwlxE_t/view?usp=drivesdk
+
 https://user-images.githubusercontent.com/77910330/148246956-2919aa6c-f7b2-4c39-938d-0d3d889e0fa3.mp4
 
 
