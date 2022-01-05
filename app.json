@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "RN-Diary-Bunda-rezalukman",
+    "slug": "RN-Diary-Bunda-rezalukman",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/db_logo.png",
+    "splash": {
+      "image": "./assets/img/db_logo_light.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.rezalukman29.RNDiaryBundarezalukman"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
