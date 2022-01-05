@@ -1,6 +1,6 @@
 ﻿# RN_Diary_Bunda
  
- React Native Authentication Flow + CRUD Rest API with Redux, Redux Thunk, Redux-Persist, Expo and Rapi UI
+ React Native Authentication Flow +  with Redux, Redux Thunk, Redux-Persist, Expo and Rapi UI
 
 Feature :
 - Rapi UI 
